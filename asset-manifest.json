@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cendrol-Project/static/css/main.86c08253.css",
+    "main.js": "/cendrol-Project/static/js/main.e2d3ecab.js",
+    "static/js/787.b2eaef3d.chunk.js": "/cendrol-Project/static/js/787.b2eaef3d.chunk.js",
+    "index.html": "/cendrol-Project/index.html",
+    "main.86c08253.css.map": "/cendrol-Project/static/css/main.86c08253.css.map",
+    "main.e2d3ecab.js.map": "/cendrol-Project/static/js/main.e2d3ecab.js.map",
+    "787.b2eaef3d.chunk.js.map": "/cendrol-Project/static/js/787.b2eaef3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86c08253.css",
+    "static/js/main.e2d3ecab.js"
+  ]
+}
