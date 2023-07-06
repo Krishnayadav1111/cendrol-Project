@@ -44,7 +44,10 @@ function Categories() {
         {categories.map(category => (
           <div key={category} className="grid-item" onClick={() => openModal(category)}>
             {category}
-            <p style={{ fontSize: '14px', color: '#9b21b0' }}>Unlimited Jokes on {category}</p>
+            <p style={{ fontSize: '14px', color: '#9b21b0',  }}>
+  Unlimited Jokes on {category}
+</p>
+
           </div>
         ))}
       </div>
